@@ -1,1 +1,1 @@
-Echo "Unit Testing"
+echo "Unit Testing" %data% %time%
