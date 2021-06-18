@@ -1,1 +1,3 @@
-Echo "Quality"
+echo "Quality - Performing Testing activities"
+SYSTEMINFO
+
